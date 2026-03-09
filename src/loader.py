@@ -74,7 +74,6 @@ def read_inventory_csv(path: str | Path) -> Dict[str, InventoryItem]:
 def iter_sales_transactions_csv(path: str | Path) -> Iterator[SalesTransaction]:
     """
     Streams sales_transactions.csv rows as SalesTransaction.
-    Skips malformed rows (caller handles logging if desired).
     """
     p = Path(path)
     with p.open("r", newline="", encoding="utf-8") as f:
