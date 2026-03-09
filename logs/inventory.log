@@ -1,0 +1,9 @@
+2026-03-05 16:17:46,668 WARNING Invalid transaction date skipped: transaction_id=T031 date='invalid_date'
+2026-03-05 16:17:46,675 WARNING Unknown product_id skipped: transaction_id=T032 product_id=P999
+2026-03-05 16:17:46,675 WARNING Negative quantity skipped: transaction_id=T033 product_id=P003 qty=-5
+2026-03-05 16:20:26,047 WARNING Invalid transaction date skipped: transaction_id=T031 date='invalid_date'
+2026-03-05 16:20:26,047 WARNING Unknown product_id skipped: transaction_id=T032 product_id=P999
+2026-03-05 16:20:26,047 WARNING Negative quantity skipped: transaction_id=T033 product_id=P003 qty=-5
+2026-03-07 13:01:46,040 WARNING Invalid transaction date skipped: transaction_id=T031 date='invalid_date'
+2026-03-07 13:01:46,040 WARNING Unknown product_id skipped: transaction_id=T032 product_id=P999
+2026-03-07 13:01:46,040 WARNING Negative quantity skipped: transaction_id=T033 product_id=P003 qty=-5

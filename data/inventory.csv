@@ -1,0 +1,21 @@
+product_id,product_name,current_stock,unit_price,category
+P001,Laptop,50,55000,Electronics
+P002,Mobile,120,20000,Electronics
+P003,Headphones,200,1500,Accessories
+P004,Monitor,80,12000,Electronics
+P005,Keyboard,150,1200,Accessories
+P006,Mouse,300,800,Accessories
+P007,Tablet,60,25000,Electronics
+P008,Speaker,90,3000,Accessories
+P009,Webcam,110,2500,Accessories
+P010,Printer,40,9000,Electronics
+P011,SSD,130,6000,Components
+P012,RAM,160,3500,Components
+P013,Router,70,4000,Networking
+P014,Switch,55,7000,Networking
+P015,Projector,25,45000,Electronics
+P016,Graphics Card,30,65000,Components
+P017,Power Bank,180,1500,Accessories
+P018,Smart Watch,95,8000,Electronics
+P019,Microphone,85,5000,Accessories
+P020,External HDD,75,7000,Components

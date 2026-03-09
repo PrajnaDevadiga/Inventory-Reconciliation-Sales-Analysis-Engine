@@ -1,0 +1,21 @@
+product_id,product_name,category,current_stock,total_sold_quantity,final_stock,stock_status,total_sales_value
+P001,Laptop,Electronics,50,3,47,AVAILABLE,165000
+P002,Mobile,Electronics,120,9,111,AVAILABLE,180000
+P003,Headphones,Accessories,200,19,181,AVAILABLE,28500
+P004,Monitor,Electronics,80,5,75,AVAILABLE,60000
+P005,Keyboard,Accessories,150,12,138,AVAILABLE,14400
+P006,Mouse,Accessories,300,35,265,AVAILABLE,28000
+P007,Tablet,Electronics,60,7,53,AVAILABLE,175000
+P008,Speaker,Accessories,90,13,77,AVAILABLE,39000
+P009,Webcam,Accessories,110,14,96,AVAILABLE,35000
+P010,Printer,Electronics,40,3,37,AVAILABLE,27000
+P011,SSD,Components,130,9,121,AVAILABLE,54000
+P012,RAM,Components,160,11,149,AVAILABLE,38500
+P013,Router,Networking,70,5,65,AVAILABLE,20000
+P014,Switch,Networking,55,4,51,AVAILABLE,28000
+P015,Projector,Electronics,25,1,24,AVAILABLE,45000
+P016,Graphics Card,Components,30,2,28,AVAILABLE,130000
+P017,Power Bank,Accessories,180,12,168,AVAILABLE,18000
+P018,Smart Watch,Electronics,95,6,89,AVAILABLE,48000
+P019,Microphone,Accessories,85,5,80,AVAILABLE,25000
+P020,External HDD,Components,75,3,72,AVAILABLE,21000
